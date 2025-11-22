@@ -205,7 +205,7 @@ Para comprender la magnitud y el crecimiento del parque automotriz en La Serena,
 
 La Figura 1 muestra la evolución de la cantidad de vehículos únicos desde 2011 hasta 2024.
 
-![Evolución del Parque Vehicular en La Serena (2011-2024).](Proyecto-Magister/grafico_evolucion_parque.png){#fig-evolucion-parque fig-align="center" width="100%" fig-pos="H"}
+![Evolución del Parque Vehicular en La Serena (2011-2024).](Proyecto-Magister/imagenes/grafico_evolucion_parque.png){#fig-evolucion-parque fig-align="center" width="100%" fig-pos="H"}
 
 Como se puede apreciar en la Figura 1, existe una tendencia general de crecimiento sostenido a lo largo del período, pasando de **55,167** vehículos únicos en 2011 a **96,623** en 2024. Esto representa un aumento del **75.2%** en 14 años. Se destaca una notoria caída en el año 2020 (77,883 registros), interrumpiendo la tendencia alcista vista hasta 2019 (80,517 registros), un fenómeno que puede atribuirse al impacto socioeconómico de la pandemia de COVID-19. A partir del año 2021, la tendencia de crecimiento se retoma con fuerza.
 
@@ -213,7 +213,7 @@ Como se puede apreciar en la Figura 1, existe una tendencia general de crecimien
 
 Para obtener una caracterización detallada del estado actual del parque vehicular, se analizó la composición de los datos del año más reciente, 2024. La Figura 2 sintetiza esta composición en tres paneles.
 
-![Composición del Parque Vehicular en La Serena (2024).](Proyecto-Magister/grafico_composicion_2024_combinado.png){#fig-composicion-combinado fig-align="center" width="100%" fig-pos="H"}
+![Composición del Parque Vehicular en La Serena (2024).](Proyecto-Magister/imagenes/grafico_composicion_2024_combinado.png){#fig-composicion-combinado fig-align="center" width="100%" fig-pos="H"}
 
 El análisis de la composición revela varios puntos clave:
 
@@ -225,7 +225,7 @@ El análisis de la composición revela varios puntos clave:
 
 Finalmente, para añadir una perspectiva temporal al análisis de composición, se examinó la evolución de la proporción de cada tipo de combustible a lo largo de todo el período de estudio. La Figura 3 muestra estas tendencias.
 
-![Evolución de la Proporción de Tipos de Combustible (2011-2024).](Proyecto-Magister/grafico_evolucion_combustibles.png){#fig-evolucion-combustible fig-align="center" width="100%" fig-pos="H"}
+![Evolución de la Proporción de Tipos de Combustible (2011-2024).](Proyecto-Magister/imagenes/grafico_evolucion_combustibles.png){#fig-evolucion-combustible fig-align="center" width="100%" fig-pos="H"}
 
 Este análisis longitudinal confirma varias tendencias importantes. Si bien la bencina sigue siendo mayoritaria, su participación ha disminuido ligeramente en el tiempo. Por el contrario, el diésel ha experimentado un crecimiento sostenido y significativo, ganando cuota de mercado año tras año. Por su parte, los vehículos híbridos y eléctricos, aunque marginales, muestran una clara aparición y crecimiento en los últimos años del período, señalando el inicio de una posible diversificación en la matriz energética del transporte local.
 
@@ -309,7 +309,7 @@ Para esta evaluación, se comparó la distribución temporal del parque vehicula
 
 La **Figura 4** presenta los resultados de esta comparación.
 
-![Comparación de la Evolución del Parque Vehicular: Original vs. Anonimizado.](Proyecto-Magister/grafico_utilidad_comparacion.png){#fig-utilidad-comparacion fig-align="center" width="100%" fig-pos="H"}
+![Comparación de la Evolución del Parque Vehicular: Original vs. Anonimizado.](Proyecto-Magister/imagenes/grafico_utilidad_comparacion.png){#fig-utilidad-comparacion fig-align="center" width="100%" fig-pos="H"}
 
 **Análisis de Conservación de Información**
 
