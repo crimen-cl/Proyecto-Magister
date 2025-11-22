@@ -1,0 +1,23 @@
+% Preambulo para Quarto PDF (no incluir \documentclass aquí)
+
+% Tipografía y codificación (opcional si no estás usando otras fuentes)
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+% Tablas profesionales
+\usepackage{booktabs}       % para \toprule, \midrule, \bottomrule
+\usepackage{longtable}      % para tablas que abarcan varias páginas
+\usepackage{array}          % para control de alineación
+\usepackage{adjustbox}      % para escalar tablas grandes
+\usepackage{caption}        % para ajustar estilo de títulos de tablas
+\captionsetup[table]{skip=5pt}  % espacio entre caption y tabla
+
+% Interlineado y márgenes si es necesario
+\usepackage{setspace}
+\usepackage{geometry}
+\geometry{margin=1in} % ya lo defines también en YAML, así que puede omitirse
+
+% Otros paquetes útiles
+\usepackage{graphicx}       % para incluir gráficos
+\usepackage{float}          % control de ubicación con [H]
+\usepackage{hyperref}       % enlaces clicables en PDF
